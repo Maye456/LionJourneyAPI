@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bentr\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bentr\\.nuget\\packages"
+    ]
+  }
+}
